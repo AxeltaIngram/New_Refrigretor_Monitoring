@@ -1,0 +1,49 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "c6e4e8bb0bae8185f1ccaffaf03f",
+    "items": [
+        {
+            "icon": "",
+            "item_id": "ecde1172-abe5-420a-8984-628689dd8c46",
+            "maximum": 50,
+            "minimum": 25,
+            "name": "Test Food"
+        }
+    ],
+    "name": "FoodTestTypes",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 0,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15,
+        "PortalEditor": 15,
+        "sms-webhook-adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "minimum",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "maximum",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "icon",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

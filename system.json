@@ -1,0 +1,27 @@
+{
+    "auth": true,
+    "deployments": [
+        {
+            "assets": [
+                {
+                    "asset_class": "adaptors",
+                    "asset_id": "",
+                    "deployment": "Monnit Webhhok",
+                    "member": "Monnit Webhhok_deployment_edge_group",
+                    "sync": true
+                }
+            ],
+            "description": "",
+            "edges": [
+                "monnit-refrigeration-webhook-edge"
+            ],
+            "name": "Monnit Webhhok"
+        }
+    ],
+    "description": "This system will be used to monitor a variety of temperature and humidity metrics",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "Refrigerator_Monitoring",
+    "platform_url": "https://ingrammicro.clearblade.com",
+    "system_key": "aebed3b90bcabac4e7c6eef5b9e601",
+    "system_secret": "AEBED3B90BC8CF96D39CA1F08D23"
+}

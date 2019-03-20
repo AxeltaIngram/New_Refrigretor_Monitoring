@@ -1,0 +1,47 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "94d8fabc0bb4cc82b7aaaaa8c29301",
+    "items": [
+        {
+            "description": "",
+            "item_id": "681e2338-4539-4b25-abf1-fc342dddb5c8",
+            "name": "Store"
+        },
+        {
+            "description": "",
+            "item_id": "7c954214-a36d-4b6f-abb1-b9741dea431d",
+            "name": "Center"
+        },
+        {
+            "description": "",
+            "item_id": "b04f6d90-b095-4eb0-b977-94bb89a107d2",
+            "name": "Office"
+        }
+    ],
+    "name": "LocationTypes",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 0,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15,
+        "PortalEditor": 15,
+        "sms-webhook-adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

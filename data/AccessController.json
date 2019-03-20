@@ -1,0 +1,46 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "e0d7b5c60be0b6ef8bd2ef90d4ee01",
+    "items": [],
+    "name": "AccessController",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 15,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15,
+        "PortalEditor": 15,
+        "sms-webhook-adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "employee_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "zone_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "asset_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "image",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

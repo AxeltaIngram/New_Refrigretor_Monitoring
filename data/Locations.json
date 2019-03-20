@@ -1,0 +1,156 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "8ebc96ba0b80f1b5b3aeb2b7ccde01",
+    "items": [
+        {
+            "address": "55 Standish Court",
+            "boundaries": "",
+            "city": "mississaug",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "description": "",
+            "icon": "",
+            "item_id": "0a30ca90-1d57-4d3d-a1c5-08b553ee91b3",
+            "label": "Test Location ",
+            "lat": "44.638730",
+            "location_type_id": "",
+            "long": "-63.581610",
+            "manager_id": "",
+            "name": "Location61",
+            "postal_code": "L5R4A",
+            "province": "Ontario"
+        },
+        {
+            "address": "Axelta",
+            "boundaries": "",
+            "city": "Hyderabad",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "description": "",
+            "icon": "",
+            "item_id": "339552d1-1d57-4a07-826c-3f1805157029",
+            "label": "Test 21",
+            "lat": "17.444149",
+            "location_type_id": "",
+            "long": "78.564770",
+            "manager_id": "",
+            "name": "Test Location 1",
+            "postal_code": "500002",
+            "province": "Telengana"
+        },
+        {
+            "address": "hyd",
+            "boundaries": "",
+            "city": "hyd",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "description": "",
+            "icon": "",
+            "item_id": "7b64f6f9-4285-4c54-ab7c-a4e529280b81",
+            "label": "manager",
+            "lat": "43.625",
+            "location_type_id": "",
+            "long": "3333.33",
+            "manager_id": "",
+            "name": "testee1",
+            "postal_code": "500016",
+            "province": "ts3"
+        },
+        {
+            "address": "55 Standish Court",
+            "boundaries": "",
+            "city": "Mississauga",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "description": "",
+            "icon": "",
+            "item_id": "db1dd8c7-7328-4a1e-9423-744b46c89c6d",
+            "label": "Headquarter",
+            "lat": "43.626438",
+            "location_type_id": "",
+            "long": "-79.683578",
+            "manager_id": "",
+            "name": "Ingram Micro",
+            "postal_code": "L5R4A1",
+            "province": "Ontario"
+        }
+    ],
+    "name": "Locations",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "customer_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "icon",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "boundaries",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "lat",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "long",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "address",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "manager_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_type_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "city",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "province",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "postal_code",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "label",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

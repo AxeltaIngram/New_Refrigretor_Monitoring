@@ -1,0 +1,19 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 29,
+    "dependencies": "log,clearblade",
+    "execution_timeout": 60,
+    "logging_enabled": false,
+    "name": "getSensors",
+    "params": [
+        "{\r\n    \"sensor_id\":\"76f44468-908f-4904-b987-1b829453d666\"\r\n}"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "getSensors.js"
+}

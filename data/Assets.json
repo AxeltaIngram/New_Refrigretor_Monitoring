@@ -1,0 +1,108 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "f6c697ba0bd2aaf88ae69ebddd8301",
+    "items": [
+        {
+            "asset_model": "123",
+            "asset_type_id": "53ca1229-f82d-4556-99b3-cee117eb5168",
+            "category": "Asset",
+            "comments": "",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "icon": "",
+            "item_id": "61afdb7c-8490-48fd-b15e-cbd575a9ff71",
+            "last_serviced": null,
+            "location_id": "0a30ca90-1d57-4d3d-a1c5-08b553ee91b3",
+            "name": "Asset 1",
+            "primary_employee": "test@gmail.com",
+            "technician_notes": "",
+            "zone_id": "2edb2d4c-dc56-43ee-bea6-46d8061b34b5"
+        },
+        {
+            "asset_model": "1235444",
+            "asset_type_id": "53ca1229-f82d-4556-99b3-cee117eb5168",
+            "category": "Testing",
+            "comments": "",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "icon": "",
+            "item_id": "98cbc2e2-bd49-4d4d-abe7-73425352eacd",
+            "last_serviced": null,
+            "location_id": "339552d1-1d57-4a07-826c-3f1805157029",
+            "name": "subhash",
+            "primary_employee": "test@gmail.com",
+            "technician_notes": "",
+            "zone_id": "7167d432-cc54-4b92-a3a5-a831a097038a"
+        }
+    ],
+    "name": "Assets",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "asset_type_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "customer_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "primary_employee",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "comments",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "zone_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "asset_model",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "last_serviced",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "technician_notes",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "icon",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "category",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

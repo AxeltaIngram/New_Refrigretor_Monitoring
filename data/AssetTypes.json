@@ -1,0 +1,45 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "98c597ba0ba4da9cafe9fdc8aff401",
+    "items": [
+        {
+            "description": "Testing",
+            "icon": "",
+            "item_id": "53ca1229-f82d-4556-99b3-cee117eb5168",
+            "name": "Test Asset",
+            "notes": ""
+        }
+    ],
+    "name": "AssetTypes",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "description",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "notes",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "icon",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

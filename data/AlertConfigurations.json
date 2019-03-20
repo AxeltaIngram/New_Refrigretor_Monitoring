@@ -1,0 +1,134 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "eef59eba0bacd182b29affefc5c201",
+    "items": [
+        {
+            "contact_method": "",
+            "contacts": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "disabled": false,
+            "item_id": "7119f9d5-dc3d-46ad-971b-8a1b1b07c24d",
+            "message": "temp too high and door is open",
+            "name": "IngramDemo",
+            "priority": "high",
+            "rules": "[{\"sensor_id\":\"385010\",\"operator\":\"EQ\",\"value\":\"true\",\"property\":\"sensor_reading\"},{\"sensor_id\":\"385258\",\"operator\":\"GT\",\"value\":\"70\",\"property\":\"sensor_reading\"}]",
+            "timeout": 5,
+            "type_id": ""
+        },
+        {
+            "contact_method": "",
+            "contacts": "[\"aallsbrook@clearblade.com\"]",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "disabled": false,
+            "item_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "message": "The door is opened",
+            "name": "DemoDoorOpenAlert",
+            "priority": "high",
+            "rules": "[{\"sensor_id\":\"385010\",\"operator\":\"EQ\",\"value\":\"true\",\"property\":\"sensor_reading\"}]",
+            "timeout": 10,
+            "type_id": ""
+        },
+        {
+            "contact_method": "",
+            "contacts": "[\"cbynum@clearblade.com\"]",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "disabled": false,
+            "item_id": "97f785df-7c42-4053-8bea-5a47b03096dd",
+            "message": "385258 is above 12",
+            "name": "fridgeTemp",
+            "priority": "high",
+            "rules": "[{\"sensor_id\":\"385258\",\"operator\":\"GT\",\"value\":\"23\"}]",
+            "timeout": 10,
+            "type_id": ""
+        },
+        {
+            "contact_method": "",
+            "contacts": "[\"t@m.com\"]",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "disabled": false,
+            "item_id": "be39efac-d002-49ce-b084-da09f3e0d6fe",
+            "message": "Battery too low",
+            "name": "low humidity battery",
+            "priority": "medium",
+            "rules": "[{\"sensor_id\":\"351530\",\"operator\":\"LT\",\"value\":\"50\",\"property\":\"battery_level\"}]",
+            "timeout": 30,
+            "type_id": ""
+        },
+        {
+            "contact_method": "",
+            "contacts": "[\"t@m.com\"]",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "disabled": false,
+            "item_id": "d04dec59-ec77-43dc-bd64-8dc42a342583",
+            "message": "Normal things have happened",
+            "name": "fireAlways",
+            "priority": "medium",
+            "rules": "[{\"sensor_id\":\"385085\",\"operator\":\"GT\",\"value\":\"0\",\"property\":\"sensor_reading\"}]",
+            "timeout": 0,
+            "type_id": ""
+        }
+    ],
+    "name": "AlertConfigurations",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "type_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "rules",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "contacts",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "contact_method",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "priority",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "disabled",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "customer_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "timeout",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "message",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

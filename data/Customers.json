@@ -1,0 +1,81 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "c2f195ba0b86c0dfafddfda9efe801",
+    "items": [
+        {
+            "address": "103 E 5th Street",
+            "city": "Austin",
+            "contact_id": "",
+            "country": "USA",
+            "icon": "https://i.imgur.com/QA6avOI.png",
+            "item_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "name": "ClearBlade",
+            "state": "Texas",
+            "zipcode": "78703"
+        },
+        {
+            "address": "99 Main Street",
+            "city": "New York",
+            "contact_id": "",
+            "country": "USA",
+            "icon": "https://static.thenounproject.com/png/732945-200.png",
+            "item_id": "efb9a290-3a01-4c70-acca-2dd4277d8ac3",
+            "name": "Jerry's Doughnuts",
+            "state": "New York",
+            "zipcode": "55555"
+        }
+    ],
+    "name": "Customers",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 0,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "contact_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "address",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "city",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "state",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "zipcode",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "country",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "icon",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

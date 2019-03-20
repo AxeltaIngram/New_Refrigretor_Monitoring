@@ -1,0 +1,140 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "d6f38aba0bace4f3ffb6cd8c94a601",
+    "items": [
+        {
+            "asset_id": "98cbc2e2-bd49-4d4d-abe7-73425352eacd",
+            "battery_level": "",
+            "contact_id": "",
+            "created_date": "2019-03-19T06:52:54.29Z",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "gateway_id": "913529",
+            "item_id": "a33cf0dc-f14a-4a60-93e2-c52446a8f718",
+            "last_active": null,
+            "latest_payload": "",
+            "location_id": "339552d1-1d57-4a07-826c-3f1805157029",
+            "metrics": "Metrics",
+            "sensor_id": "123456",
+            "sensor_label": "Label",
+            "sensor_name": "",
+            "sensor_type_id": "c42335da-0d1c-40ac-9296-631ff6d77203",
+            "signal_strength": "",
+            "zone_id": "7167d432-cc54-4b92-a3a5-a831a097038a"
+        },
+        {
+            "asset_id": "98cbc2e2-bd49-4d4d-abe7-73425352eacd",
+            "battery_level": "",
+            "contact_id": "",
+            "created_date": "2019-03-07T09:21:10.526Z",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "gateway_id": "123456",
+            "item_id": "f0b88128-e47d-4bdf-b00c-bd2e73f57b2a",
+            "last_active": null,
+            "latest_payload": "",
+            "location_id": "339552d1-1d57-4a07-826c-3f1805157029",
+            "metrics": "12",
+            "sensor_id": "777777",
+            "sensor_label": "Test Sensor 1",
+            "sensor_name": "",
+            "sensor_type_id": "c42335da-0d1c-40ac-9296-631ff6d77203",
+            "signal_strength": "",
+            "zone_id": "7167d432-cc54-4b92-a3a5-a831a097038a"
+        }
+    ],
+    "name": "Sensors",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 15,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15,
+        "PortalEditor": 15,
+        "sms-webhook-adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "sensor_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "sensor_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "sensor_label",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "gateway_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "customer_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "contact_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "latest_payload",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "created_date",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "last_active",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "asset_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "sensor_type_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "signal_strength",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "battery_level",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "zone_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "metrics",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

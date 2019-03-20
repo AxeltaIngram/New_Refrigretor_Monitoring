@@ -1,0 +1,485 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "aeef9eba0be2f19af9f896e1c49d01",
+    "items": [
+        {
+            "acknowledge_date": null,
+            "configuration_id": "d04dec59-ec77-43dc-bd64-8dc42a342583",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": true,
+            "item_id": "05278910-569d-4754-b5a8-209ce2127d83",
+            "sent_date": "2018-10-23T17:01:36.579Z",
+            "snoozed_count": 2,
+            "snoozed_date": "2018-10-30T15:23:41.314Z",
+            "target_users": "[\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": null,
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": true,
+            "item_id": "0e10bdc9-0f5e-4948-9506-47b6e8d5b91e",
+            "sent_date": "2018-11-16T12:18:40.223Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-11-15T18:40:19.236Z",
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "1364ba6b-ce8e-493c-84e7-ca9d99deeccd",
+            "sent_date": "2018-10-30T14:59:00.914Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-17T15:48:44.958Z",
+            "configuration_id": "d04dec59-ec77-43dc-bd64-8dc42a342583",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "187826da-a54a-444b-8af1-c074aa3cb7ed",
+            "sent_date": "2018-10-13T01:16:56.896Z",
+            "snoozed_count": 1,
+            "snoozed_date": "2018-10-15T16:08:24.73Z",
+            "target_users": "[\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-13T01:07:01.478Z",
+            "configuration_id": "ab7aba74-6365-4c86-8288-87b0c46feae6",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "1b04555a-28fb-4344-bd8d-fed6a0027e54",
+            "sent_date": "2018-10-11T19:18:08.961Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"cbynum@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:44:19.319Z",
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "1b1bb3e4-ba49-4e4f-8c1d-41031dbba27f",
+            "sent_date": "2018-09-24T23:43:10.473Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:35:00.969Z",
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "1e2ee81e-bb39-4981-b99e-9395290fe31b",
+            "sent_date": "2018-09-24T23:33:10.189Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-13T01:07:04.138Z",
+            "configuration_id": "2efbc89a-b8f5-4b45-b0bf-0c60008ab844",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "3301051a-a523-4eae-bc28-284eb8efca69",
+            "sent_date": "2018-10-11T18:41:03.755Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"cbynum@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:35:00.056Z",
+            "configuration_id": "7119f9d5-dc3d-46ad-971b-8a1b1b07c24d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "35e3827d-9c76-40ab-b060-899015ce39ec",
+            "sent_date": "2018-09-24T23:33:10.167Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:46:53.336Z",
+            "configuration_id": "d04dec59-ec77-43dc-bd64-8dc42a342583",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "36a47b45-1e27-4db6-9b4b-6dd216c9ccf1",
+            "sent_date": "2018-09-24T23:45:10.654Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-23T16:51:42.651Z",
+            "configuration_id": "d04dec59-ec77-43dc-bd64-8dc42a342583",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "3851f14f-a005-4482-a0b6-a034cdbdfcc5",
+            "sent_date": "2018-10-18T15:21:05.549Z",
+            "snoozed_count": 1,
+            "snoozed_date": "2018-10-19T15:18:38.978Z",
+            "target_users": "[\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-17T22:19:26.97Z",
+            "configuration_id": "d04dec59-ec77-43dc-bd64-8dc42a342583",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "4518a2de-534f-42ed-8378-0b6dde3e9ce6",
+            "sent_date": "2018-10-17T22:16:12.485Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:46:52.49Z",
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "4b277d9b-dc87-464d-82de-421a07009f17",
+            "sent_date": "2018-09-24T23:45:10.258Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-13T01:07:03.184Z",
+            "configuration_id": "43ecb3d8-571e-437c-bb1d-423af189f027",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "6bcde6f8-3b76-400b-821f-533ffbc0c0e8",
+            "sent_date": "2018-10-11T18:51:16.054Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"cbynum@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-30T14:53:44.885Z",
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "6dec7657-8ee9-4abf-9be1-5f63fdbd51c8",
+            "sent_date": "2018-10-18T16:21:43.548Z",
+            "snoozed_count": 1,
+            "snoozed_date": "2018-10-26T01:14:45.876Z",
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": null,
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": true,
+            "item_id": "6e044b0f-1933-4f71-9cc5-224639b061ae",
+            "sent_date": "2018-11-16T12:18:40.237Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-11T16:06:32.167Z",
+            "configuration_id": "7119f9d5-dc3d-46ad-971b-8a1b1b07c24d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "6e8703d2-490f-4b99-9044-a6335ebc2c42",
+            "sent_date": "2018-09-24T23:48:10.096Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-13T01:07:06.026Z",
+            "configuration_id": "d04dec59-ec77-43dc-bd64-8dc42a342583",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "76ab84d3-24c6-4ba1-b793-6ba09968f7a9",
+            "sent_date": "2018-09-25T00:03:10.394Z",
+            "snoozed_count": 1,
+            "snoozed_date": "2018-10-10T21:10:19.617Z",
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:47:25.211Z",
+            "configuration_id": "7119f9d5-dc3d-46ad-971b-8a1b1b07c24d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "814e4b8e-5d20-4028-add1-f7a2e91e000c",
+            "sent_date": "2018-09-24T23:47:10.279Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2019-01-22T17:29:18.53Z",
+            "configuration_id": "97f785df-7c42-4053-8bea-5a47b03096dd",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "93874c7c-2536-4441-9748-904df3b47acf",
+            "sent_date": "2018-10-19T00:31:47.014Z",
+            "snoozed_count": 2,
+            "snoozed_date": "2018-10-26T01:14:46.895Z",
+            "target_users": "[\"cbynum@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:44:17.736Z",
+            "configuration_id": "7119f9d5-dc3d-46ad-971b-8a1b1b07c24d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "980595be-f897-43e6-ae5e-d90c8463ddac",
+            "sent_date": "2018-09-24T23:43:10.429Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:46:51.547Z",
+            "configuration_id": "7119f9d5-dc3d-46ad-971b-8a1b1b07c24d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "a138fab3-2be0-4312-8854-e50b310bc639",
+            "sent_date": "2018-09-24T23:45:10.232Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:44:20.183Z",
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "a21ba5e7-d5e8-434d-a799-40fab16645d8",
+            "sent_date": "2018-09-24T23:43:10.473Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-17T22:31:02.464Z",
+            "configuration_id": "d04dec59-ec77-43dc-bd64-8dc42a342583",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "aad96aee-81ad-45f0-b79c-b744d08d159e",
+            "sent_date": "2018-10-17T22:21:36.143Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-13T01:07:07.304Z",
+            "configuration_id": "ac2fd84a-82d8-4f54-9ad4-ba4cba30d4b3",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "ac79b73b-7393-4f79-88c7-616babc4e5b8",
+            "sent_date": "2018-10-04T21:16:40.932Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:47:24.236Z",
+            "configuration_id": "7119f9d5-dc3d-46ad-971b-8a1b1b07c24d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "b217acf7-ce52-4011-b24d-3cf7e03b775f",
+            "sent_date": "2018-09-24T23:47:10.275Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:47:26.237Z",
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "b8996791-1fcd-400b-9c56-d6a26a9bb1d9",
+            "sent_date": "2018-09-24T23:47:10.869Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:44:18.432Z",
+            "configuration_id": "7119f9d5-dc3d-46ad-971b-8a1b1b07c24d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "c2fc9a6b-0a01-4d9f-ab97-f0e22fe1fcab",
+            "sent_date": "2018-09-24T23:43:10.432Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-10T21:55:39.221Z",
+            "configuration_id": "be39efac-d002-49ce-b084-da09f3e0d6fe",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "dc9cdd00-15f1-4ed4-88de-eb18525930a0",
+            "sent_date": "2018-10-10T21:54:41.607Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-13T01:07:07.965Z",
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "dffcd834-c9aa-4bea-87b6-697f8ee61929",
+            "sent_date": "2018-09-24T23:48:10.141Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-13T01:07:05.221Z",
+            "configuration_id": "97f785df-7c42-4053-8bea-5a47b03096dd",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "e1cbb3ce-a3d6-4d0f-8075-e462ceada803",
+            "sent_date": "2018-10-10T21:16:28.784Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"cbynum@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-17T22:19:04.713Z",
+            "configuration_id": "97f785df-7c42-4053-8bea-5a47b03096dd",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "eb6d5893-aec7-4aca-87b0-d3124c2a27cc",
+            "sent_date": "2018-10-13T01:16:56.919Z",
+            "snoozed_count": 1,
+            "snoozed_date": "2018-10-15T16:08:26.5Z",
+            "target_users": "[\"cbynum@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-17T22:16:01.613Z",
+            "configuration_id": "d04dec59-ec77-43dc-bd64-8dc42a342583",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "ef16b789-c8f8-40eb-a281-c94c458add40",
+            "sent_date": "2018-10-17T16:01:33.659Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-09-24T23:35:01.976Z",
+            "configuration_id": "79af7600-bce1-4a66-853c-e1e93536c86d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "fa45eaf5-7e8a-4b7f-a415-de15c58c19d2",
+            "sent_date": "2018-09-24T23:33:10.186Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        },
+        {
+            "acknowledge_date": "2018-10-17T15:48:54.217Z",
+            "configuration_id": "7119f9d5-dc3d-46ad-971b-8a1b1b07c24d",
+            "customer_id": "2843b40d-b3e5-4f4c-9f5f-9ac8d2709ec8",
+            "is_active": false,
+            "item_id": "fe85a285-217a-4575-9c18-3794559120cf",
+            "sent_date": "2018-10-17T15:12:06.57Z",
+            "snoozed_count": 0,
+            "snoozed_date": null,
+            "target_users": "[\"aallsbrook@clearblade.com\",\"t@m.com\"]",
+            "type_id": "461b3ffd-b458-48e8-ac84-cf6a82866951"
+        }
+    ],
+    "name": "Alerts",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 15,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "type_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "is_active",
+            "ColumnType": "bool",
+            "PK": false
+        },
+        {
+            "ColumnName": "configuration_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "sent_date",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "acknowledge_date",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "snoozed_date",
+            "ColumnType": "timestamp",
+            "PK": false
+        },
+        {
+            "ColumnName": "snoozed_count",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "target_users",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "customer_id",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

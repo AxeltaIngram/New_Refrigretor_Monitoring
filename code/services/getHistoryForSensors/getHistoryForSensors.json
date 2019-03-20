@@ -1,0 +1,19 @@
+{
+    "auto_balance": false,
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 77,
+    "dependencies": "log,clearblade",
+    "execution_timeout": 60,
+    "logging_enabled": false,
+    "name": "getHistoryForSensors",
+    "params": [
+        "{\n  \"sensor_ids\": [\n    \"385015\"\n  ],\n  \"startTime\": \"2019-01-04T9:46:58.971Z\",\n  \"endTime\": \"2019-01-04T10:46:58.971Z\"\n}"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "getHistoryForSensors.js"
+}

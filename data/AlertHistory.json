@@ -1,0 +1,47 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "ceb8a8ba0bc0a8b7959fd3afb0bc01",
+    "items": [],
+    "name": "AlertHistory",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "employee_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "action_type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "alert_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "action_name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "action_value",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "action_timestamp",
+            "ColumnType": "timestamp",
+            "PK": false
+        }
+    ]
+}

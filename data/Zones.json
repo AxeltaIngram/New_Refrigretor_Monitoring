@@ -1,0 +1,79 @@
+{
+    "app_id": "aebed3b90bcabac4e7c6eef5b9e601",
+    "collection_id": "dcb2c4c10ba0c7a29bafecb4e413",
+    "items": [
+        {
+            "item_id": "2511aadb-7932-43e4-b12e-6132bfa65339",
+            "label": "Test 6",
+            "location_id": "7b64f6f9-4285-4c54-ab7c-a4e529280b81",
+            "name": "Student",
+            "picture": "",
+            "primary_employee": "test@axelta.com"
+        },
+        {
+            "item_id": "2edb2d4c-dc56-43ee-bea6-46d8061b34b5",
+            "label": "Zone 11",
+            "location_id": "0a30ca90-1d57-4d3d-a1c5-08b553ee91b3",
+            "name": "Zone 11",
+            "picture": "",
+            "primary_employee": "test@gmail.com"
+        },
+        {
+            "item_id": "7167d432-cc54-4b92-a3a5-a831a097038a",
+            "label": "Test 1",
+            "location_id": "339552d1-1d57-4a07-826c-3f1805157029",
+            "name": "subhash",
+            "picture": "",
+            "primary_employee": "test@gmail.com"
+        },
+        {
+            "item_id": "b3f21e0e-216d-4ae5-80a1-859a736dd610",
+            "label": "First Floor",
+            "location_id": "db1dd8c7-7328-4a1e-9423-744b46c89c6d",
+            "name": "First Floor",
+            "picture": "",
+            "primary_employee": "test@gmail.com"
+        }
+    ],
+    "name": "Zones",
+    "permissions": {
+        "Administrator": 15,
+        "Anonymous": 0,
+        "Authenticated": 15,
+        "Monnit Webhook Adapter": 15,
+        "PortalEditor": 15,
+        "sms-webhook-adapter": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "location_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "label",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "primary_employee",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "picture",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
